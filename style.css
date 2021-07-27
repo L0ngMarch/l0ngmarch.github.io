@@ -27,7 +27,7 @@ aside {
 }
 
 article {
-    flex: 3;
+    flex: 4;
     border-style:ridge;
     border-width:5px;
     border-color:green;
